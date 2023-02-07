@@ -2,7 +2,7 @@
 
 ### Olá mundo! Sou Felipe Galdino Sant'Ana 👋
 
-- 🔭 Atualmente estou trabalhando como QA
+- 🔭 Atualmente estou trabalhando como QA Trainee, mas estou open to work para JR.
 - 🌱 Atualmente estou aprendendo Cypress, HTML e CSS
 - 📫 Contate-me no email: felipegaldino21@gmail.com
 - 😄 Pronouns:ele/dele
