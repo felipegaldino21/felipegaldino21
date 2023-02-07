@@ -1,4 +1,6 @@
-### HOlá mundo! Sou Felipe Galdino Sant'Ana 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&lineheight=120&section=header"/>
+
+### Olá mundo! Sou Felipe Galdino Sant'Ana 👋
 
 - 🔭 Atualmente estou trabalhando como QA
 - 🌱 Atualmente estou aprendendo Cypress, HTML e CSS
