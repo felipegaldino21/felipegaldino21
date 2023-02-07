@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=040bec&height=120&section=header"/>
 
 ### Olá mundo! Sou Felipe Galdino Sant'Ana 👋
 
